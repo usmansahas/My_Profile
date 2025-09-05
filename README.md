@@ -2,5 +2,5 @@
 Python Developer(Fresher)
 <br/>
 ## Skills
-![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+![Python](https://img.shields.io/badge/-Python-yellow?logo=python)
 
