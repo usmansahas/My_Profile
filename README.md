@@ -1,2 +1,6 @@
 # My_Profile
-Describing Myself
+Python Developer(Fresher)
+<br/>
+## Skills
+![Python](https://img.shields.io/badge/-Python-blue?logo=python)
+
