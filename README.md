@@ -1,6 +1,6 @@
 # My_Profile
 
-👋 Hi there!This is S.A.Usman.I'm an MCA student at Jain University, passionate about building web applications and solving real-world problems through code.
+👋 Hi there!This is S.A.Usman.I'm an MCA student (Mode:Online) at Jain University, passionate about building web applications and solving real-world problems through code.
 
 <br/>
 
@@ -10,6 +10,7 @@
                
 - 🐍 Backend:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/FastAPI/FastAPI-plain.svg" width="40" height="40"/>
                
 - 🗃️ Database: <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" height="40"/>
 
