@@ -11,7 +11,8 @@
 - 🐍 Backend:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" width="40" height="40"/>
-               <img src="https://assets.getpostman.com/common-share/postman-logo.png" width="40" height="40" alt="Postman"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/json/json-original.svg" width="40" height="40"/>
+
 
 
 
