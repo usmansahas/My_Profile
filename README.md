@@ -23,7 +23,9 @@
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" height="40"/>
                
-🚀 Currently learning and exploring full-stack web development.
+🚀 Experienced in building and integrating REST APIs for smooth data communication between frontend and backend systems.
+
+🔧 Skilled in writing unit tests using Pytest to ensure code reliability, functionality, and high-quality application performance.
 
 📂 Check out my repositories to see what I'm working on. I'm always open to collaboration and feedback!
 
