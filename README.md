@@ -11,7 +11,8 @@ I’m a backend developer who enjoys building APIs and solving real-world proble
 - 🐍 Backend:  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" width="40" height="40"/>
                <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-plain.svg" width="40" height="40"/>
-               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/node.js/node.js-original.svg" width="40" height="40"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" height="40"/>
+               <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/expressjs/expressjs-original.svg" width="40" height="40"/>
 
 
 
