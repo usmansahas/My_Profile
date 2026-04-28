@@ -1,6 +1,6 @@
 # My_Profile
 
-👋 Hi there!This is S.A.Usman.I'm an MCA student (Mode:Online) at Jain University, passionate about building web applications and solving real-world problems through code.
+I’m a backend developer who enjoys building APIs and solving real-world problems using Python and JavaScript.I’ve worked with Node.js, Express.js, Django, and databases like MongoDB and SQL to create secure and scalable applications.Always learning, improving, and aiming to build better backend systems.
 
 <br/>
 
